@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Abu Zahra Agrovet</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #2d572c;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #2d572c;
+    }
+    .contact {
+      background-color: #e1f5e0;
+      padding: 1rem;
+      border-radius: 5px;
+    }
+    footer {
+      background-color: #2d572c;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+    a {
+      color: #2d572c;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Abu Zahra Agrovet and General Supplies</h1>
+    <p>Agro Equipment & Veterinary Products</p>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>At Abu Zahra Agrovet and General Supplies, we specialize in the sales of high-quality agricultural equipment and veterinary products. We are dedicated to supporting farmers and livestock owners with reliable tools and trusted animal healthcare solutions.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <div class="contact">
+      <p><strong>Phone:</strong> +123 456 7890</p>
+      <p><strong>Email:</strong> info@abuzahraagrovet.com</p>
+      <p><strong>Location:</strong> Your Business Address</p>
+      <p><strong>Follow us:</strong> 
+        <a href="#">Facebook</a> | 
+        <a href="#">Instagram</a>
+      </p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Abu Zahra Agrovet and General Supplies</p>
+  </footer>
+
+</body>
+</html>
